@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git -C d:/Projects/airport-ops-mcp add .claude/ .env.example main.py opensky/ prompts/ pyproject.toml resources/ tools/ utils/)",
-      "Bash(git -C d:/Projects/airport-ops-mcp status)"
+      "Bash(git *)",
+      "Bash(uv *)"
     ]
   }
 }
